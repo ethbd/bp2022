@@ -779,7 +779,7 @@ input.btn:focus { border-width: 2px; }
 .btn.btn-white { background:#ffffff; border-color: #ffffff; color: #232323; }
 .btn.btn-white:hover, .btn.btn-white:focus { background: transparent; color: #fff; }
 .btn.btn-red { background:#f30617; border-color: #f30617; color: #ffffff; }
-.btn.btn-red:hover, .btn.btn-red:focus { background: transparent; color: #fff; }
+.btn.btn-red:hover, .btn.btn-red:focus { background: transparent; color: #f30617; }
 .btn.btn-black { background:#000000; border-color: #000000; color: #fff; }
 .btn.btn-black:hover, .btn.btn-black:focus { background: transparent; color: #000; }
 .btn.btn-dark-gray { background: #232323; border-color: #232323; color: #fff; }
