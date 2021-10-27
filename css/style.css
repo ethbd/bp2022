@@ -161,6 +161,7 @@ h6 { font-size:1.80rem; line-height:2.5rem; }
 .text-light-orange, .btn-link.text-light-orange, a.text-light-orange-hover:hover { color: #e8bf47; }
 .text-dark-red, .btn-link.text-dark-red, a.text-dark-red-hover:hover { color: #e12837; }
 .text-ethicon-red, .btn-link.text-ethicon-red, a.text-ethicon-hover:hover { color: #f30617; }
+.text-crimson, .btn-link.text-crimson, a.text-crimson-hover:hover { color: #C8102E; }
 .text-radical-red, .btn-link.text-radical-red, a.text-radical-red-hover:hover { color: #fb4f58; }
 .text-golden, .btn-link.text-golden, a.text-golden-hover:hover { color: #ca943d; }
 .text-golden-yellow, .btn-link.text-golden-yellow, a.text-golden-yellow-hover:hover { color: #FF9C00; }
