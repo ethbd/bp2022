@@ -351,19 +351,23 @@ h6 { font-size:1.80rem; line-height:2.5rem; }
     04. Background color
 ====================================== */
 
+.bg-ink {background-color: #091F2C;}
+.bg-crimson {background-color: #C8102E;}
+.bg-ink {background-color: #091F2C;}
+.bg-ivory {background-color: #EDECE1;}
 .bg-white { background-color:#FFF; }
 .bg-black { background-color:#000; }
 .bg-smoky-black { background-color:#101010; }
-.bg-dark-gray { background-color:#757575; }
+.bg-dark-gray { background-color:#969696; }
 .bg-extra-dark-gray { background-color:#232323; }
 .bg-extra-dark-gray-2 { background-color:#060606; }
 .bg-extra-medium-gray { background-color:#939393; }
-.bg-medium-gray { background-color:#e4e4e4; }
-.bg-extra-light-gray { background-color:#cfcfcf; }
+.bg-medium-gray { background-color:#BEBCBD; }
+.bg-extra-light-gray { background-color:#F7F7F7; }
 .bg-medium-light-gray { background-color:#ededed; }
 .bg-very-light-gray { background-color:#fafafa; }
 .bg-nero-gray { background-color:#141414; }
-.bg-light-gray { background-color:#f7f7f7; }
+.bg-light-gray { background-color:#E4E4E4; }
 .bg-bright-red { background-color: #98272a; }
 .bg-ethicon { background-color: #f30617; }
 .bg-fast-blue { background-color: #0038e3; }
