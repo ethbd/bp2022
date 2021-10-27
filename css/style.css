@@ -787,6 +787,7 @@ input.btn:focus { border-width: 2px; }
 .btn.btn-black { background:#000000; border-color: #000000; color: #fff;border-radius: 25px; }
 .btn.btn-black:hover, .btn.btn-black:focus { background: transparent; color: #000; border-radius: 25px;}
 .btn.btn-dark-gray { background: #232323; border-color: #232323; color: #fff; border-radius: 25px;}
+.btn.btn-ink { background: #091F2C; border-color: #232323; color: #fff; border-radius: 25px;}
 .btn.btn-dark-gray:hover, .btn.btn-dark-gray:focus { background: transparent; color: #232323; border-radius: 25px;}
 .btn.btn-light-gray { background: #dbdbdb; border-color: #dbdbdb; color: #232323; border-radius: 25px;}
 .btn.btn-light-gray:hover, .btn.btn-light-gray:focus { background: transparent; border-color: #dbdbdb; color: #dbdbdb; border-radius: 25px;}
